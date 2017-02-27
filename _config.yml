@@ -1,0 +1,8 @@
+title: Collegeproject
+description: 大学时做的项目
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
